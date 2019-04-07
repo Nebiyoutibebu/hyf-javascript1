@@ -1,0 +1,106 @@
+1,
+
+console.log("Halo, dunia"); // Indonesian
+console.log("Hej världen"); // Swedish
+console.log("Hej, Verden"); // Danish
+console.log("ሠላም አለም!"); // Amharic
+
+2,
+
+console.log("I'm awesome"); // or
+console.log('I\'m awesome');
+3,
+let z;
+console.log("the value of z will be: whateverYouThinkItWillLog");
+console.log(11);
+z = 11;
+console.log("the value of x will be: whateverYouThinkItWillLog");
+console.log(11);
+
+4,
+let myFurnitures = "table and bed"; 
+console.log ("the value of my string will be: table and bed");
+console.log ("table and bed ");
+let myFurnitures = "chair and sofa";
+console.log("the value of my string will be: chair and sofa");
+console.log("chair and sofa")
+
+5, Math.round(7.25)
+
+6,
+let cars = [];
+console.log('will be undefined');
+console.log(cars);
+let things = [];
+let myFavoriteAnimals = ["lion", "zebra", "wolf"];
+console.log(myfavoriteanimals);
+let myFavoriteAnimals = ["lion", "zebra", "wolf"];
+myFavoriteAnimals.push("baby pig");
+console.log(myFavoriteAnimals);
+
+7,
+let myString = "this is a test";
+console.log(myString);
+let myString = "this is a test";
+stringLength = myString.length;
+console.log(myString.length);// ?
+
+8,
+
+let m = "money";
+console.log("The value of m is: " + money);
+let b = 11;
+console.log("The value of b is: " + eleven);
+let w = "apartment";
+console.log("The type of my variable w is:" +  apartment);
+let d = " villa";
+console.log("The type of my variable d is:" + villa);
+
+
+console.log("The type of my variable w is string");
+console.log("The type of my variable d is string");
+console.log("The type of my variable m is boolean");
+console.log("The type of my variable b is number");
+
+console.log("The type of variable m is: " + typeof M);
+console.log("The type of variable w is: " + typeof w);
+console.log("The type of variable d is: " + typeof d);
+console.log("The type of variable b is: " + typeof b);
+
+if (typeof m == typeof b) {
+    console.log('m and b are the same type');
+} else {
+    console.log('m and b are NOT the same type');
+}
+if (typeof b == typeof w) {
+    console.log('b and w are the same type');
+} else {
+    console.log('b and w are NOT the same type');
+}
+if (typeof w == typeof d) {
+    console.log('w and d are the same type');
+} else {
+    console.log('w and d are NOT the same type');
+}
+if (typeof m == typeof d) {
+    console.log('m and d are the same type');
+} else {
+    console.log('m and d are NOT the same type');
+}
+
+
+
+
+9, //"The remainder operator returns the remainder left over when one operand is divided by a second operand. It always takes the sign of the dividend" 
+   x = 7
+   x = x % 3
+   7/3
+   console.log ("the value of x is " + 1)
+
+9.1, var1 % var2
+     15 % 3 // 1
+     21% 4  // 1
+     101% 2 // 1
+
+10,1let multipleArray = ["isles",true, 100 ]
+console.log("The values of the multiple array are: " + multipleArray);
