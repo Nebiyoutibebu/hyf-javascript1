@@ -21,16 +21,16 @@ let favoriteAnimals= ["blowfish", "capricorn", "giraffe"];
 	console.log(favoriteAnimals);
 	
     // More JavaScript //
-
+//1//
 function myFunction(a, b, c) {
 	    return a + b + c
 	}
-	// function 2//
+// function 2//
 	function colorCar(color) {
-	    return "a color car"
+	    return "a red car"
 	};
-	 
-	colorCar("red");
+// function 3//	 
+colorCar("red");
 	 
 	//function 4//
 	function vehicleType(color, code) {
@@ -87,6 +87,6 @@ function vehicle (color,code,age){
     let myObj={};
 //13.0
     let teachers={
-        JavaScript:"Stephen",
         gitkatas:"Albert",
+	 Javascript: "Katya",
         }
