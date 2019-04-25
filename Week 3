@@ -115,12 +115,14 @@ for (let i = 0; i < 1; i++) {
     car[0], ',', car[1], "and", car[2], ".");
 }
 
-
-
 //12.0
     let myObj={};
-//13.0
+//13 & 14//
     let teachers={
         gitkatas:"Albert",
 	 Javascript: "Katya",
         }
+//15//
+
+
+
