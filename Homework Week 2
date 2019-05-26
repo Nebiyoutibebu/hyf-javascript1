@@ -20,7 +20,7 @@ console.log("the value of w will be: five");
 console.log(w);
 
 // 4 //
-var myFurnitures ="bed";
+let myFurnitures ="bed";
 console.log("the value of my string will be: bed");
 console.log(myFurnitures);
 bed = "sofa";
@@ -35,7 +35,7 @@ Math.round(x);
 let cars = [];
 console.log("the value of my array will be:will be: undefined");
 console.log(cars);
-var bigCats =["lion", "tiger", "jaguar"];
+let bigCats =["lion", "tiger", "jaguar"];
 console.log(bigCats);
 bigCats.push("baby pig");
 console.log(bigCats);
@@ -97,7 +97,7 @@ letx=x%3
 console.log(x);
 
 
-9.1, var1 % var2
+9.1, let1 % let2
   15 % 3 // 1
   21% 4  // 1
   101% 2 // 1
